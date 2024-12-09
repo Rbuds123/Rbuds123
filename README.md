@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Discord moderation bot**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **robbudden5@gmail.com**
 
