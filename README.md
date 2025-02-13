@@ -1,5 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=32CD32&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Robert;Software+developer+from+England)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=32CD32&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Robert;Software+developer+from+England" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Software developer from England</h3>
 
