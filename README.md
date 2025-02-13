@@ -48,8 +48,12 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbuds123&layout=donut-vertical)](https://github.com/rbuds123/github-readme-stats)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuds123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuds123&show_icons=true&locale=en" alt="rbuds123" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbuds123&theme=github-dark-blue&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" alt="rbuds123" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbuds123&" alt="rbuds123" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbuds123&layout=donut-vertical&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true)](https://github.com/rbuds123/github-readme-stats)
