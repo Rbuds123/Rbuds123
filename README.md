@@ -37,7 +37,7 @@
 
 </p>
 
-<h3 align="left"> Langueages:</h3>
+<h3 align="left"> Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"></a>
 <a href="https://www.haskell.org"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40" height="40" alt="Haskell"></a>
