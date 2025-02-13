@@ -1,11 +1,13 @@
+<div style="text-align: center;">
+  <a href="https://github.com/rbuds123">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=600&color=ffffff&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Robert;Software+developer+from+England" alt="Typing SVG">
+  </a>
+  <br>
+  <a href="https://github.com/rbuds123">
+    <img src="https://komarev.com/ghpvc/?username=rbuds123&label=Profile%20views&color=0eb419&style=plastic" alt="Profile views">
+  </a>
+</div>
 
-
-# Hi! I'm Robert
-
-Software developer from England
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=600&color=ffffff&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Robert;Software+developer+from+England)](https://github.com/rbuds123)
-[![Profile views](https://komarev.com/ghpvc/?username=rbuds123&label=Profile%20views&color=0eb419&style=plastic)](https://github.com/rbuds123)
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rbuds123)](https://github.com/ryo-ma/github-profile-trophy)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/rbuds123?logo=twitter&style=for-the-badge)](https://twitter.com/rbuds123)
 
