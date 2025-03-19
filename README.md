@@ -58,7 +58,7 @@
 <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"></a>
 <a href="https://flask.palletsprojects.com"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="40" height="40" alt="Flask"></a>
 <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"></a>
-<a href="https://hive.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40" alt="Hive"></a>
+<a href="https://hive.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg](https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40" alt="Hive"></a>
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"></a>
 <a href="https://www.mathworks.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"></a>
