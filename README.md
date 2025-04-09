@@ -7,11 +7,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rbuds123&label=Profile%20views&color=0eb419&style=plastic" alt="rbuds123" /> </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbuds123" alt="rbuds123" /></a> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/rbuds123" target="blank"><img src="https://img.shields.io/twitter/follow/rbuds123?logo=twitter&style=for-the-badge" alt="rbuds123" /></a> </p>
 
 
@@ -67,11 +62,21 @@
 </p>
 
 
+<p>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=rbuds123&theme=darkhub"/>
 
+</p>
 <p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuds123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbuds123&layout=donut-vertical&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true)](https://github.com/rbuds123/github-readme-stats)
+<p>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuds123&layout=donut-vertical&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
+
+</p>
+
+
+
