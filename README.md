@@ -71,7 +71,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuds123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
 
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rbuds123)](https://git.io/streak-stats)
 <p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuds123&layout=donut-vertical&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
