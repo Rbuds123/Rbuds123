@@ -60,9 +60,11 @@
 <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"></a>
 </p>
+
 <p>
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rbuds123&theme=darkhub"/>
 </p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuds123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide_border=true" alt="rbuds123" />
 </p>
