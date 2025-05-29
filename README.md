@@ -51,7 +51,7 @@
 <a href="https://hive.apache.org"><img src="https://github.com/jghoman/apache-logos/blob/master/Hive.svg" width="40" height="40" alt="Hive"></a>
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"></a>
 <a href="https://www.mathworks.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"></a>
-<a href="https://nodejs.org"><img src="\devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"></a>
+<a href="https://nodejs.org"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="40" height="40" alt="Node.js"></a>
 <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"></a>
 </p>
