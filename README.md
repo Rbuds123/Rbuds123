@@ -57,7 +57,7 @@
 </p>
 
 <p>
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=rbuds123&theme=darkhub"/>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=rbuds123&v1&theme=darkhub"/>
 </p>
 
 <p>
