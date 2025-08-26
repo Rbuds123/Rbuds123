@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [cricket app] (https://github.com/Rbuds123/cricket_app)
+- 🔭 I’m currently working on cricket app
 
 
 
