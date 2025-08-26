@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
 
 
