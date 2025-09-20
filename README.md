@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working on cricket app
+- 🔭 I’m currently working on ...
 
 
 
